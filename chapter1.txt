@@ -1,0 +1,5 @@
+primeira linha de teste do meu curso de Git
+pular linha
+/
+adaostumar manipular docs aqui na linha de comando 
+
